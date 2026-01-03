@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://iworkcommunity.com/wp-content/smush-webp/pages-1-360x360.png.webp" width="200" alt="Templates for Pages application logo"><br>
- <a href="https://app-quick-app.github.io/.github/TemplatesforPages">
+ <a href="https://gnomik-gomik-apps.github.io/.github/TemplatesforPages">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Templates for Pages macOS">
  </a><br><br>
  <div align="center">
